@@ -1,0 +1,16 @@
+{
+  "v": 1,
+  "id": "a1b2c3d4",
+  "title": "鯨幣託管示範",
+  "vendor": "deepseek",
+  "model": "deepseek-chat",
+  "models": [
+    "*"
+  ],
+  "provider": "DeepSeek 官方",
+  "proto": "openai",
+  "base": "https://api.deepseek.com",
+  "iat": 1791676800,
+  "char": "鯨魚娘",
+  "note": "公開示範設定；不含 API key。"
+}
